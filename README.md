@@ -9,4 +9,5 @@ This project analyses the market value of football players in Serie A in the 202
 
 ### Key Note:
 **To run the code, the data must be downloaded from here:** [this Google Drive link](https://drive.google.com/drive/folders/1WN5OKXjajaXnlEzohpFEapYtmp38itX4?usp=sharing).
+- Download the repository as a ZIP file and extract it.
 - Save the data to a folder called "data" in the main project directory (the same directory as the .Rproj file).
