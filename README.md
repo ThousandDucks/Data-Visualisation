@@ -1,6 +1,6 @@
 # Project Overview
 
-This project analyses the market value of football players in Serie A in the 2023/2024 season, exploring how factors like position, sub position, and performance metrics (goals, assists) influence player market value.
+This project analyses the market value of football players in Serie A in the 2023/2024 season, exploring how factors like position, sub position, and performance metrics (goals, assists) influence player market value. Data visualisation was done in accordance to the INF4000 Data Visualisation module requirements.
 
 ### Key Questions:
 - Who are the most valuable players in Serie A?
