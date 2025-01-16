@@ -11,4 +11,4 @@ This project analyses the market value of football players in Serie A in the 202
 **To run the code, the data must be downloaded from here:** [this Google Drive link](https://drive.google.com/drive/folders/1WN5OKXjajaXnlEzohpFEapYtmp38itX4?usp=sharing).
 - Download the repository as a ZIP file and extract it.
 - Save the data to a folder called "data" in the main project directory (the same directory as the .Rproj file).
-- Open the Introduction_to_data_science.Rproj file in RStudio. This will set the correct working directory.
+- Open the data_visualisation.Rproj file in RStudio. This will set the correct working directory.
